@@ -59,7 +59,7 @@ If the update fails:
 ## Installation
 
 ```bash
-git  clone https://github.com/0xinit0/update-manager.git
+git clone https://github.com/0xinit0/update-manager.git
 chmod +x update.sh
 sudo cp update.sh /usr/local/bin/update
 ```
