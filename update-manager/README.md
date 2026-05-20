@@ -59,8 +59,13 @@ If the update fails:
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/updatein.git
-cd updatein
-chmod +x updatein.sh
-./updatein.sh
+git clone https://github.com/0xinit0/my_arch_scripts/update-manager.git
+chmod +x update.sh
+sudo cp update.sh /usr/local/bin/update
+```
+
+## Usage
+
+```bash
+update
 ```
